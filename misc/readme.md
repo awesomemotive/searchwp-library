@@ -1,0 +1,4 @@
+Misc
+==========
+
+Miscellaneous SearchWP snippets
